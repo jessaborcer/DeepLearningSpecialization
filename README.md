@@ -5,7 +5,7 @@ Programming assignments and quizzes from all courses in the Coursera [Deep Learn
 Instructor: [Andrew Ng](http://www.andrewng.org/)
 
 ## Notes
-Notes that accompany this course is added and compile for future references.
+Notes that accompany this course is added and compile for future references. Uploads are slowly being done.
 
 ## Setup
 
